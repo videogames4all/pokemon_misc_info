@@ -1,0 +1,1093 @@
+Name,Height(dm),Weight(hg),BMI,Category
+bulbasaur,7,69,14.08,Very Severely Underweight
+ivysaur,10,130,13.0,Very Severely Underweight
+venusaur,20,1000,25.0,Overweight
+charmander,6,85,23.61,Healthy Weight
+charmeleon,11,190,15.7,Severely Underweight
+charizard,17,905,31.31,Moderately Obese
+squirtle,5,90,36.0,Severely Obese
+wartortle,10,225,22.5,Healthy Weight
+blastoise,16,855,33.4,Moderately Obese
+caterpie,3,29,32.22,Moderately Obese
+metapod,7,99,20.2,Healthy Weight
+butterfree,11,320,26.45,Overweight
+weedle,3,32,35.56,Severely Obese
+kakuna,6,100,27.78,Overweight
+beedrill,10,295,29.5,Overweight
+pidgey,3,18,20.0,Healthy Weight
+pidgeotto,11,300,24.79,Healthy Weight
+pidgeot,15,395,17.56,Underweight
+rattata,3,35,38.89,Severely Obese
+raticate,7,185,37.76,Severely Obese
+spearow,3,20,22.22,Healthy Weight
+fearow,12,380,26.39,Overweight
+ekans,20,69,1.73,Very Severely Underweight
+arbok,35,650,5.31,Very Severely Underweight
+pikachu,4,60,37.5,Severely Obese
+raichu,8,300,46.87,Very Severely Obese
+sandshrew,6,120,33.33,Moderately Obese
+sandslash,10,295,29.5,Overweight
+nidoran-f,4,70,43.75,Very Severely Obese
+nidorina,8,200,31.25,Moderately Obese
+nidoqueen,13,600,35.5,Severely Obese
+nidoran-m,5,90,36.0,Severely Obese
+nidorino,9,195,24.07,Healthy Weight
+nidoking,14,620,31.63,Moderately Obese
+clefairy,6,75,20.83,Healthy Weight
+clefable,13,400,23.67,Healthy Weight
+vulpix,6,99,27.5,Overweight
+ninetales,11,199,16.45,Underweight
+jigglypuff,5,55,22.0,Healthy Weight
+wigglytuff,10,120,12.0,Very Severely Underweight
+zubat,8,75,11.72,Very Severely Underweight
+golbat,16,550,21.48,Healthy Weight
+oddish,5,54,21.6,Healthy Weight
+gloom,8,86,13.44,Very Severely Underweight
+vileplume,12,186,12.92,Very Severely Underweight
+paras,3,54,60.0,Very Severely Obese
+parasect,10,295,29.5,Overweight
+venonat,10,300,30.0,Moderately Obese
+venomoth,15,125,5.56,Very Severely Underweight
+diglett,2,8,20.0,Healthy Weight
+dugtrio,7,333,67.96,Very Severely Obese
+meowth,4,42,26.25,Overweight
+persian,10,320,32.0,Moderately Obese
+psyduck,8,196,30.62,Moderately Obese
+golduck,17,766,26.51,Overweight
+mankey,5,280,112.0,Very Severely Obese
+primeape,10,320,32.0,Moderately Obese
+growlithe,7,190,38.78,Severely Obese
+arcanine,19,1550,42.94,Very Severely Obese
+poliwag,6,124,34.44,Moderately Obese
+poliwhirl,10,200,20.0,Healthy Weight
+poliwrath,13,540,31.95,Moderately Obese
+abra,9,195,24.07,Healthy Weight
+kadabra,13,565,33.43,Moderately Obese
+alakazam,15,480,21.33,Healthy Weight
+machop,8,195,30.47,Moderately Obese
+machoke,15,705,31.33,Moderately Obese
+machamp,16,1300,50.78,Very Severely Obese
+bellsprout,7,40,8.16,Very Severely Underweight
+weepinbell,10,64,6.4,Very Severely Underweight
+victreebel,17,155,5.36,Very Severely Underweight
+tentacool,9,455,56.17,Very Severely Obese
+tentacruel,16,550,21.48,Healthy Weight
+geodude,4,200,125.0,Very Severely Obese
+graveler,10,1050,105.0,Very Severely Obese
+golem,14,3000,153.06,Very Severely Obese
+ponyta,10,300,30.0,Moderately Obese
+rapidash,17,950,32.87,Moderately Obese
+slowpoke,12,360,25.0,Overweight
+slowbro,16,785,30.66,Moderately Obese
+magnemite,3,60,66.67,Very Severely Obese
+magneton,10,600,60.0,Very Severely Obese
+farfetchd,8,150,23.44,Healthy Weight
+doduo,14,392,20.0,Healthy Weight
+dodrio,18,852,26.3,Overweight
+seel,11,900,74.38,Very Severely Obese
+dewgong,17,1200,41.52,Very Severely Obese
+grimer,9,300,37.04,Severely Obese
+muk,12,300,20.83,Healthy Weight
+shellder,3,40,44.44,Very Severely Obese
+cloyster,15,1325,58.89,Very Severely Obese
+gastly,13,1,0.06,Very Severely Underweight
+haunter,16,1,0.04,Very Severely Underweight
+gengar,15,405,18.0,Underweight
+onix,88,2100,2.71,Very Severely Underweight
+drowzee,10,324,32.4,Moderately Obese
+hypno,16,756,29.53,Overweight
+krabby,4,65,40.62,Very Severely Obese
+kingler,13,600,35.5,Severely Obese
+voltorb,5,104,41.6,Very Severely Obese
+electrode,12,666,46.25,Very Severely Obese
+exeggcute,4,25,15.62,Severely Underweight
+exeggutor,20,1200,30.0,Moderately Obese
+cubone,4,65,40.62,Very Severely Obese
+marowak,10,450,45.0,Very Severely Obese
+hitmonlee,15,498,22.13,Healthy Weight
+hitmonchan,14,502,25.61,Overweight
+lickitung,12,655,45.49,Very Severely Obese
+koffing,6,10,2.78,Very Severely Underweight
+weezing,12,95,6.6,Very Severely Underweight
+rhyhorn,10,1150,115.0,Very Severely Obese
+rhydon,19,1200,33.24,Moderately Obese
+chansey,11,346,28.6,Overweight
+tangela,10,350,35.0,Severely Obese
+kangaskhan,22,800,16.53,Underweight
+horsea,4,80,50.0,Very Severely Obese
+seadra,12,250,17.36,Underweight
+goldeen,6,150,41.67,Very Severely Obese
+seaking,13,390,23.08,Healthy Weight
+staryu,8,345,53.91,Very Severely Obese
+starmie,11,800,66.12,Very Severely Obese
+mr-mime,13,545,32.25,Moderately Obese
+scyther,15,560,24.89,Healthy Weight
+jynx,14,406,20.71,Healthy Weight
+electabuzz,11,300,24.79,Healthy Weight
+magmar,13,445,26.33,Overweight
+pinsir,15,550,24.44,Healthy Weight
+tauros,14,884,45.1,Very Severely Obese
+magikarp,9,100,12.35,Very Severely Underweight
+gyarados,65,2350,5.56,Very Severely Underweight
+lapras,25,2200,35.2,Severely Obese
+ditto,3,40,44.44,Very Severely Obese
+eevee,3,65,72.22,Very Severely Obese
+vaporeon,10,290,29.0,Overweight
+jolteon,8,245,38.28,Severely Obese
+flareon,9,250,30.86,Moderately Obese
+porygon,8,365,57.03,Very Severely Obese
+omanyte,4,75,46.87,Very Severely Obese
+omastar,10,350,35.0,Severely Obese
+kabuto,5,115,46.0,Very Severely Obese
+kabutops,13,405,23.96,Healthy Weight
+aerodactyl,18,590,18.21,Underweight
+snorlax,21,4600,104.31,Very Severely Obese
+articuno,17,554,19.17,Healthy Weight
+zapdos,16,526,20.55,Healthy Weight
+moltres,20,600,15.0,Severely Underweight
+dratini,18,33,1.02,Very Severely Underweight
+dragonair,40,165,1.03,Very Severely Underweight
+dragonite,22,2100,43.39,Very Severely Obese
+mewtwo,20,1220,30.5,Moderately Obese
+mew,4,40,25.0,Overweight
+chikorita,9,64,7.9,Very Severely Underweight
+bayleef,12,158,10.97,Very Severely Underweight
+meganium,18,1005,31.02,Moderately Obese
+cyndaquil,5,79,31.6,Moderately Obese
+quilava,9,190,23.46,Healthy Weight
+typhlosion,17,795,27.51,Overweight
+totodile,6,95,26.39,Overweight
+croconaw,11,250,20.66,Healthy Weight
+feraligatr,23,888,16.79,Underweight
+sentret,8,60,9.37,Very Severely Underweight
+furret,18,325,10.03,Very Severely Underweight
+hoothoot,7,212,43.27,Very Severely Obese
+noctowl,16,408,15.94,Severely Underweight
+ledyba,10,108,10.8,Very Severely Underweight
+ledian,14,356,18.16,Underweight
+spinarak,5,85,34.0,Moderately Obese
+ariados,11,335,27.69,Overweight
+crobat,18,750,23.15,Healthy Weight
+chinchou,5,120,48.0,Very Severely Obese
+lanturn,12,225,15.62,Severely Underweight
+pichu,3,20,22.22,Healthy Weight
+cleffa,3,30,33.33,Moderately Obese
+igglybuff,3,10,11.11,Very Severely Underweight
+togepi,3,15,16.67,Underweight
+togetic,6,32,8.89,Very Severely Underweight
+natu,2,20,50.0,Very Severely Obese
+xatu,15,150,6.67,Very Severely Underweight
+mareep,6,78,21.67,Healthy Weight
+flaaffy,8,133,20.78,Healthy Weight
+ampharos,14,615,31.38,Moderately Obese
+bellossom,4,58,36.25,Severely Obese
+marill,4,85,53.12,Very Severely Obese
+azumarill,8,285,44.53,Very Severely Obese
+sudowoodo,12,380,26.39,Overweight
+politoed,11,339,28.02,Overweight
+hoppip,4,5,3.12,Very Severely Underweight
+skiploom,6,10,2.78,Very Severely Underweight
+jumpluff,8,30,4.69,Very Severely Underweight
+aipom,8,115,17.97,Underweight
+sunkern,3,18,20.0,Healthy Weight
+sunflora,8,85,13.28,Very Severely Underweight
+yanma,12,380,26.39,Overweight
+wooper,4,85,53.12,Very Severely Obese
+quagsire,14,750,38.27,Severely Obese
+espeon,9,265,32.72,Moderately Obese
+umbreon,10,270,27.0,Overweight
+murkrow,5,21,8.4,Very Severely Underweight
+slowking,20,795,19.88,Healthy Weight
+misdreavus,7,10,2.04,Very Severely Underweight
+unown,5,50,20.0,Healthy Weight
+wobbuffet,13,285,16.86,Underweight
+girafarig,15,415,18.44,Underweight
+pineco,6,72,20.0,Healthy Weight
+forretress,12,1258,87.36,Very Severely Obese
+dunsparce,15,140,6.22,Very Severely Underweight
+gligar,11,648,53.55,Very Severely Obese
+steelix,92,4000,4.73,Very Severely Underweight
+snubbull,6,78,21.67,Healthy Weight
+granbull,14,487,24.85,Healthy Weight
+qwilfish,5,39,15.6,Severely Underweight
+scizor,18,1180,36.42,Severely Obese
+shuckle,6,205,56.94,Very Severely Obese
+heracross,15,540,24.0,Healthy Weight
+sneasel,9,280,34.57,Moderately Obese
+teddiursa,6,88,24.44,Healthy Weight
+ursaring,18,1258,38.83,Severely Obese
+slugma,7,350,71.43,Very Severely Obese
+magcargo,8,550,85.94,Very Severely Obese
+swinub,4,65,40.62,Very Severely Obese
+piloswine,11,558,46.12,Very Severely Obese
+corsola,6,50,13.89,Very Severely Underweight
+remoraid,6,120,33.33,Moderately Obese
+octillery,9,285,35.19,Severely Obese
+delibird,9,160,19.75,Healthy Weight
+mantine,21,2200,49.89,Very Severely Obese
+skarmory,17,505,17.47,Underweight
+houndour,6,108,30.0,Moderately Obese
+houndoom,14,350,17.86,Underweight
+kingdra,18,1520,46.91,Very Severely Obese
+phanpy,5,335,134.0,Very Severely Obese
+donphan,11,1200,99.17,Very Severely Obese
+porygon2,6,325,90.28,Very Severely Obese
+stantler,14,712,36.33,Severely Obese
+smeargle,12,580,40.28,Very Severely Obese
+tyrogue,7,210,42.86,Very Severely Obese
+hitmontop,14,480,24.49,Healthy Weight
+smoochum,4,60,37.5,Severely Obese
+elekid,6,235,65.28,Very Severely Obese
+magby,7,214,43.67,Very Severely Obese
+miltank,12,755,52.43,Very Severely Obese
+blissey,15,468,20.8,Healthy Weight
+raikou,19,1780,49.31,Very Severely Obese
+entei,21,1980,44.9,Very Severely Obese
+suicune,20,1870,46.75,Very Severely Obese
+larvitar,6,720,200.0,Very Severely Obese
+pupitar,12,1520,105.56,Very Severely Obese
+tyranitar,20,2020,50.5,Very Severely Obese
+lugia,52,2160,7.99,Very Severely Underweight
+ho-oh,38,1990,13.78,Very Severely Underweight
+celebi,6,50,13.89,Very Severely Underweight
+treecko,5,50,20.0,Healthy Weight
+grovyle,9,216,26.67,Overweight
+sceptile,17,522,18.06,Underweight
+torchic,4,25,15.62,Severely Underweight
+combusken,9,195,24.07,Healthy Weight
+blaziken,19,520,14.4,Very Severely Underweight
+mudkip,4,76,47.5,Very Severely Obese
+marshtomp,7,280,57.14,Very Severely Obese
+swampert,15,819,36.4,Severely Obese
+poochyena,5,136,54.4,Very Severely Obese
+mightyena,10,370,37.0,Severely Obese
+zigzagoon,4,175,109.37,Very Severely Obese
+linoone,5,325,130.0,Very Severely Obese
+wurmple,3,36,40.0,Unknown
+silcoon,6,100,27.78,Overweight
+beautifly,10,284,28.4,Overweight
+cascoon,7,115,23.47,Healthy Weight
+dustox,12,316,21.94,Healthy Weight
+lotad,5,26,10.4,Very Severely Underweight
+lombre,12,325,22.57,Healthy Weight
+ludicolo,15,550,24.44,Healthy Weight
+seedot,5,40,16.0,Underweight
+nuzleaf,10,280,28.0,Overweight
+shiftry,13,596,35.27,Severely Obese
+taillow,3,23,25.56,Overweight
+swellow,7,198,40.41,Very Severely Obese
+wingull,6,95,26.39,Overweight
+pelipper,12,280,19.44,Healthy Weight
+ralts,4,66,41.25,Very Severely Obese
+kirlia,8,202,31.56,Moderately Obese
+gardevoir,16,484,18.91,Healthy Weight
+surskit,5,17,6.8,Very Severely Underweight
+masquerain,8,36,5.62,Very Severely Underweight
+shroomish,4,45,28.12,Overweight
+breloom,12,392,27.22,Overweight
+slakoth,8,240,37.5,Severely Obese
+vigoroth,14,465,23.72,Healthy Weight
+slaking,20,1305,32.62,Moderately Obese
+nincada,5,55,22.0,Healthy Weight
+ninjask,8,120,18.75,Healthy Weight
+shedinja,8,12,1.87,Very Severely Underweight
+whismur,6,163,45.28,Very Severely Obese
+loudred,10,405,40.5,Very Severely Obese
+exploud,15,840,37.33,Severely Obese
+makuhita,10,864,86.4,Very Severely Obese
+hariyama,23,2538,47.98,Very Severely Obese
+azurill,2,20,50.0,Very Severely Obese
+nosepass,10,970,97.0,Very Severely Obese
+skitty,6,110,30.56,Moderately Obese
+delcatty,11,326,26.94,Overweight
+sableye,5,110,44.0,Very Severely Obese
+mawile,6,115,31.94,Moderately Obese
+aron,4,600,375.0,Very Severely Obese
+lairon,9,1200,148.15,Very Severely Obese
+aggron,21,3600,81.63,Very Severely Obese
+meditite,6,112,31.11,Moderately Obese
+medicham,13,315,18.64,Healthy Weight
+electrike,6,152,42.22,Very Severely Obese
+manectric,15,402,17.87,Underweight
+plusle,4,42,26.25,Overweight
+minun,4,42,26.25,Overweight
+volbeat,7,177,36.12,Severely Obese
+illumise,6,177,49.17,Very Severely Obese
+roselia,3,20,22.22,Healthy Weight
+gulpin,4,103,64.37,Very Severely Obese
+swalot,17,800,27.68,Overweight
+carvanha,8,208,32.5,Moderately Obese
+sharpedo,18,888,27.41,Overweight
+wailmer,20,1300,32.5,Moderately Obese
+wailord,145,3980,1.89,Very Severely Underweight
+numel,7,240,48.98,Very Severely Obese
+camerupt,19,2200,60.94,Very Severely Obese
+torkoal,5,804,321.6,Very Severely Obese
+spoink,7,306,62.45,Very Severely Obese
+grumpig,9,715,88.27,Very Severely Obese
+spinda,11,50,4.13,Very Severely Underweight
+trapinch,7,150,30.61,Moderately Obese
+vibrava,11,153,12.64,Very Severely Underweight
+flygon,20,820,20.5,Healthy Weight
+cacnea,4,513,320.62,Very Severely Obese
+cacturne,13,774,45.8,Very Severely Obese
+swablu,4,12,7.5,Very Severely Underweight
+altaria,11,206,17.02,Underweight
+zangoose,13,403,23.85,Healthy Weight
+seviper,27,525,7.2,Very Severely Underweight
+lunatone,10,1680,168.0,Very Severely Obese
+solrock,12,1540,106.94,Very Severely Obese
+barboach,4,19,11.87,Very Severely Underweight
+whiscash,9,236,29.14,Overweight
+corphish,6,115,31.94,Moderately Obese
+crawdaunt,11,328,27.11,Overweight
+baltoy,5,215,86.0,Very Severely Obese
+claydol,15,1080,48.0,Very Severely Obese
+lileep,10,238,23.8,Healthy Weight
+cradily,15,604,26.84,Overweight
+anorith,7,125,25.51,Overweight
+armaldo,15,682,30.31,Moderately Obese
+feebas,6,74,20.56,Healthy Weight
+milotic,62,1620,4.21,Very Severely Underweight
+castform,3,8,8.89,Very Severely Underweight
+kecleon,10,220,22.0,Healthy Weight
+shuppet,6,23,6.39,Very Severely Underweight
+banette,11,125,10.33,Very Severely Underweight
+duskull,8,150,23.44,Healthy Weight
+dusclops,16,306,11.95,Very Severely Underweight
+tropius,20,1000,25.0,Overweight
+chimecho,6,10,2.78,Very Severely Underweight
+absol,12,470,32.64,Moderately Obese
+wynaut,6,140,38.89,Severely Obese
+snorunt,7,168,34.29,Moderately Obese
+glalie,15,2565,114.0,Very Severely Obese
+spheal,8,395,61.72,Very Severely Obese
+sealeo,11,876,72.4,Very Severely Obese
+walrein,14,1506,76.84,Very Severely Obese
+clamperl,4,525,328.12,Very Severely Obese
+huntail,17,270,9.34,Very Severely Underweight
+gorebyss,18,226,6.98,Very Severely Underweight
+relicanth,10,234,23.4,Healthy Weight
+luvdisc,6,87,24.17,Healthy Weight
+bagon,6,421,116.94,Very Severely Obese
+shelgon,11,1105,91.32,Very Severely Obese
+salamence,15,1026,45.6,Very Severely Obese
+beldum,6,952,264.44,Very Severely Obese
+metang,12,2025,140.62,Very Severely Obese
+metagross,16,5500,214.84,Very Severely Obese
+regirock,17,2300,79.58,Very Severely Obese
+regice,18,1750,54.01,Very Severely Obese
+registeel,19,2050,56.79,Very Severely Obese
+latias,14,400,20.41,Healthy Weight
+latios,20,600,15.0,Severely Underweight
+kyogre,45,3520,17.38,Underweight
+groudon,35,9500,77.55,Very Severely Obese
+rayquaza,70,2065,4.21,Very Severely Underweight
+jirachi,3,11,12.22,Very Severely Underweight
+deoxys-normal,17,608,21.04,Healthy Weight
+turtwig,4,102,63.75,Very Severely Obese
+grotle,11,970,80.17,Very Severely Obese
+torterra,22,3100,64.05,Very Severely Obese
+chimchar,5,62,24.8,Healthy Weight
+monferno,9,220,27.16,Overweight
+infernape,12,550,38.19,Severely Obese
+piplup,4,52,32.5,Moderately Obese
+prinplup,8,230,35.94,Severely Obese
+empoleon,17,845,29.24,Overweight
+starly,3,20,22.22,Healthy Weight
+staravia,6,155,43.06,Very Severely Obese
+staraptor,12,249,17.29,Underweight
+bidoof,5,200,80.0,Very Severely Obese
+bibarel,10,315,31.5,Moderately Obese
+kricketot,3,22,24.44,Healthy Weight
+kricketune,10,255,25.5,Overweight
+shinx,5,95,38.0,Severely Obese
+luxio,9,305,37.65,Severely Obese
+luxray,14,420,21.43,Healthy Weight
+budew,2,12,30.0,Moderately Obese
+roserade,9,145,17.9,Underweight
+cranidos,9,315,38.89,Severely Obese
+rampardos,16,1025,40.04,Very Severely Obese
+shieldon,5,570,228.0,Very Severely Obese
+bastiodon,13,1495,88.46,Very Severely Obese
+burmy,2,34,85.0,Very Severely Obese
+wormadam-plant,5,65,26.0,Overweight
+mothim,9,233,28.77,Overweight
+combee,3,55,61.11,Very Severely Obese
+vespiquen,12,385,26.74,Overweight
+pachirisu,4,39,24.37,Healthy Weight
+buizel,7,295,60.2,Very Severely Obese
+floatzel,11,335,27.69,Overweight
+cherubi,4,33,20.62,Healthy Weight
+cherrim,5,93,37.2,Severely Obese
+shellos,3,63,70.0,Very Severely Obese
+gastrodon,9,299,36.91,Severely Obese
+ambipom,12,203,14.1,Very Severely Underweight
+drifloon,4,12,7.5,Very Severely Underweight
+drifblim,12,150,10.42,Very Severely Underweight
+buneary,4,55,34.37,Moderately Obese
+lopunny,12,333,23.12,Healthy Weight
+mismagius,9,44,5.43,Very Severely Underweight
+honchkrow,9,273,33.7,Moderately Obese
+glameow,5,39,15.6,Severely Underweight
+purugly,10,438,43.8,Very Severely Obese
+chingling,2,6,15.0,Severely Underweight
+stunky,4,192,120.0,Very Severely Obese
+skuntank,10,380,38.0,Severely Obese
+bronzor,5,605,242.0,Very Severely Obese
+bronzong,13,1870,110.65,Very Severely Obese
+bonsly,5,150,60.0,Very Severely Obese
+mime-jr,6,130,36.11,Severely Obese
+happiny,6,244,67.78,Very Severely Obese
+chatot,5,19,7.6,Very Severely Underweight
+spiritomb,10,1080,108.0,Very Severely Obese
+gible,7,205,41.84,Very Severely Obese
+gabite,14,560,28.57,Overweight
+garchomp,19,950,26.32,Overweight
+munchlax,6,1050,291.67,Very Severely Obese
+riolu,7,202,41.22,Very Severely Obese
+lucario,12,540,37.5,Severely Obese
+hippopotas,8,495,77.34,Very Severely Obese
+hippowdon,20,3000,75.0,Very Severely Obese
+skorupi,8,120,18.75,Healthy Weight
+drapion,13,615,36.39,Severely Obese
+croagunk,7,230,46.94,Very Severely Obese
+toxicroak,13,444,26.27,Overweight
+carnivine,14,270,13.78,Very Severely Underweight
+finneon,4,70,43.75,Very Severely Obese
+lumineon,12,240,16.67,Underweight
+mantyke,10,650,65.0,Very Severely Obese
+snover,10,505,50.5,Very Severely Obese
+abomasnow,22,1355,28.0,Overweight
+weavile,11,340,28.1,Overweight
+magnezone,12,1800,125.0,Very Severely Obese
+lickilicky,17,1400,48.44,Very Severely Obese
+rhyperior,24,2828,49.1,Very Severely Obese
+tangrowth,20,1286,32.15,Moderately Obese
+electivire,18,1386,42.78,Very Severely Obese
+magmortar,16,680,26.56,Overweight
+togekiss,15,380,16.89,Underweight
+yanmega,19,515,14.27,Very Severely Underweight
+leafeon,10,255,25.5,Overweight
+glaceon,8,259,40.47,Very Severely Obese
+gliscor,20,425,10.62,Very Severely Underweight
+mamoswine,25,2910,46.56,Very Severely Obese
+porygon-z,9,340,41.98,Very Severely Obese
+gallade,16,520,20.31,Healthy Weight
+probopass,14,3400,173.47,Very Severely Obese
+dusknoir,22,1066,22.02,Healthy Weight
+froslass,13,266,15.74,Severely Underweight
+rotom,3,3,3.33,Very Severely Underweight
+uxie,3,3,3.33,Very Severely Underweight
+mesprit,3,3,3.33,Very Severely Underweight
+azelf,3,3,3.33,Very Severely Underweight
+dialga,54,6830,23.42,Healthy Weight
+palkia,42,3360,19.05,Healthy Weight
+heatran,17,4300,148.79,Very Severely Obese
+regigigas,37,4200,30.68,Moderately Obese
+giratina-altered,45,7500,37.04,Severely Obese
+cresselia,15,856,38.04,Severely Obese
+phione,4,31,19.37,Healthy Weight
+manaphy,3,14,15.56,Severely Underweight
+darkrai,15,505,22.44,Healthy Weight
+shaymin-land,2,21,52.5,Very Severely Obese
+arceus,32,3200,31.25,Moderately Obese
+victini,4,40,25.0,Overweight
+snivy,6,81,22.5,Healthy Weight
+servine,8,160,25.0,Overweight
+serperior,33,630,5.79,Very Severely Underweight
+tepig,5,99,39.6,Severely Obese
+pignite,10,555,55.5,Very Severely Obese
+emboar,16,1500,58.59,Very Severely Obese
+oshawott,5,59,23.6,Healthy Weight
+dewott,8,245,38.28,Severely Obese
+samurott,15,946,42.04,Very Severely Obese
+patrat,5,116,46.4,Very Severely Obese
+watchog,11,270,22.31,Healthy Weight
+lillipup,4,41,25.62,Overweight
+herdier,9,147,18.15,Underweight
+stoutland,12,610,42.36,Very Severely Obese
+purrloin,4,101,63.12,Very Severely Obese
+liepard,11,375,30.99,Moderately Obese
+pansage,6,105,29.17,Overweight
+simisage,11,305,25.21,Overweight
+pansear,6,110,30.56,Moderately Obese
+simisear,10,280,28.0,Overweight
+panpour,6,135,37.5,Severely Obese
+simipour,10,290,29.0,Overweight
+munna,6,233,64.72,Very Severely Obese
+musharna,11,605,50.0,Very Severely Obese
+pidove,3,21,23.33,Healthy Weight
+tranquill,6,150,41.67,Very Severely Obese
+unfezant,12,290,20.14,Healthy Weight
+blitzle,8,298,46.56,Very Severely Obese
+zebstrika,16,795,31.05,Moderately Obese
+roggenrola,4,180,112.5,Very Severely Obese
+boldore,9,1020,125.93,Very Severely Obese
+gigalith,17,2600,89.97,Very Severely Obese
+woobat,4,21,13.12,Very Severely Underweight
+swoobat,9,105,12.96,Very Severely Underweight
+drilbur,3,85,94.44,Very Severely Obese
+excadrill,7,404,82.45,Very Severely Obese
+audino,11,310,25.62,Overweight
+timburr,6,125,34.72,Moderately Obese
+gurdurr,12,400,27.78,Overweight
+conkeldurr,14,870,44.39,Very Severely Obese
+tympole,5,45,18.0,Underweight
+palpitoad,8,170,26.56,Overweight
+seismitoad,15,620,27.56,Overweight
+throh,13,555,32.84,Moderately Obese
+sawk,14,510,26.02,Overweight
+sewaddle,3,25,27.78,Overweight
+swadloon,5,73,29.2,Overweight
+leavanny,12,205,14.24,Very Severely Underweight
+venipede,4,53,33.12,Moderately Obese
+whirlipede,12,585,40.62,Very Severely Obese
+scolipede,25,2005,32.08,Moderately Obese
+cottonee,3,6,6.67,Very Severely Underweight
+whimsicott,7,66,13.47,Very Severely Underweight
+petilil,5,66,26.4,Overweight
+lilligant,11,163,13.47,Very Severely Underweight
+basculin-red-striped,10,180,18.0,Underweight
+sandile,7,152,31.02,Moderately Obese
+krokorok,10,334,33.4,Moderately Obese
+krookodile,15,963,42.8,Very Severely Obese
+darumaka,6,375,104.17,Very Severely Obese
+darmanitan-standard,13,929,54.97,Very Severely Obese
+maractus,10,280,28.0,Overweight
+dwebble,3,145,161.11,Very Severely Obese
+crustle,14,2000,102.04,Very Severely Obese
+scraggy,6,118,32.78,Moderately Obese
+scrafty,11,300,24.79,Healthy Weight
+sigilyph,14,140,7.14,Very Severely Underweight
+yamask,5,15,6.0,Very Severely Underweight
+cofagrigus,17,765,26.47,Overweight
+tirtouga,7,165,33.67,Moderately Obese
+carracosta,12,810,56.25,Very Severely Obese
+archen,5,95,38.0,Severely Obese
+archeops,14,320,16.33,Underweight
+trubbish,6,310,86.11,Very Severely Obese
+garbodor,19,1073,29.72,Overweight
+zorua,7,125,25.51,Overweight
+zoroark,16,811,31.68,Moderately Obese
+minccino,4,58,36.25,Severely Obese
+cinccino,5,75,30.0,Moderately Obese
+gothita,4,58,36.25,Severely Obese
+gothorita,7,180,36.73,Severely Obese
+gothitelle,15,440,19.56,Healthy Weight
+solosis,3,10,11.11,Very Severely Underweight
+duosion,6,80,22.22,Healthy Weight
+reuniclus,10,201,20.1,Healthy Weight
+ducklett,5,55,22.0,Healthy Weight
+swanna,13,242,14.32,Very Severely Underweight
+vanillite,4,57,35.62,Severely Obese
+vanillish,11,410,33.88,Moderately Obese
+vanilluxe,13,575,34.02,Moderately Obese
+deerling,6,195,54.17,Very Severely Obese
+sawsbuck,19,925,25.62,Overweight
+emolga,4,50,31.25,Moderately Obese
+karrablast,5,59,23.6,Healthy Weight
+escavalier,10,330,33.0,Moderately Obese
+foongus,2,10,25.0,Overweight
+amoonguss,6,105,29.17,Overweight
+frillish,12,330,22.92,Healthy Weight
+jellicent,22,1350,27.89,Overweight
+alomomola,12,316,21.94,Healthy Weight
+joltik,1,6,60.0,Very Severely Obese
+galvantula,8,143,22.34,Healthy Weight
+ferroseed,6,188,52.22,Very Severely Obese
+ferrothorn,10,1100,110.0,Very Severely Obese
+klink,3,210,233.33,Very Severely Obese
+klang,6,510,141.67,Very Severely Obese
+klinklang,6,810,225.0,Very Severely Obese
+tynamo,2,3,7.5,Very Severely Underweight
+eelektrik,12,220,15.28,Severely Underweight
+eelektross,21,805,18.25,Underweight
+elgyem,5,90,36.0,Severely Obese
+beheeyem,10,345,34.5,Moderately Obese
+litwick,3,31,34.44,Moderately Obese
+lampent,6,130,36.11,Severely Obese
+chandelure,10,343,34.3,Moderately Obese
+axew,6,180,50.0,Very Severely Obese
+fraxure,10,360,36.0,Severely Obese
+haxorus,18,1055,32.56,Moderately Obese
+cubchoo,5,85,34.0,Moderately Obese
+beartic,26,2600,38.46,Severely Obese
+cryogonal,11,1480,122.31,Very Severely Obese
+shelmet,4,77,48.12,Very Severely Obese
+accelgor,8,253,39.53,Severely Obese
+stunfisk,7,110,22.45,Healthy Weight
+mienfoo,9,200,24.69,Healthy Weight
+mienshao,14,355,18.11,Underweight
+druddigon,16,1390,54.3,Very Severely Obese
+golett,10,920,92.0,Very Severely Obese
+golurk,28,3300,42.09,Very Severely Obese
+pawniard,5,102,40.8,Very Severely Obese
+bisharp,16,700,27.34,Overweight
+bouffalant,16,946,36.95,Severely Obese
+rufflet,5,105,42.0,Very Severely Obese
+braviary,15,410,18.22,Underweight
+vullaby,5,90,36.0,Severely Obese
+mandibuzz,12,395,27.43,Overweight
+heatmor,14,580,29.59,Overweight
+durant,3,330,366.67,Very Severely Obese
+deino,8,173,27.03,Overweight
+zweilous,14,500,25.51,Overweight
+hydreigon,18,1600,49.38,Very Severely Obese
+larvesta,11,288,23.8,Healthy Weight
+volcarona,16,460,17.97,Underweight
+cobalion,21,2500,56.69,Very Severely Obese
+terrakion,19,2600,72.02,Very Severely Obese
+virizion,20,2000,50.0,Very Severely Obese
+tornadus-incarnate,15,630,28.0,Overweight
+thundurus-incarnate,15,610,27.11,Overweight
+reshiram,32,3300,32.23,Moderately Obese
+zekrom,29,3450,41.02,Very Severely Obese
+landorus-incarnate,15,680,30.22,Moderately Obese
+kyurem,30,3250,36.11,Severely Obese
+keldeo-ordinary,14,485,24.74,Healthy Weight
+meloetta-aria,6,65,18.06,Underweight
+genesect,15,825,36.67,Severely Obese
+chespin,4,90,56.25,Very Severely Obese
+quilladin,7,290,59.18,Very Severely Obese
+chesnaught,16,900,35.16,Severely Obese
+fennekin,4,94,58.75,Very Severely Obese
+braixen,10,145,14.5,Very Severely Underweight
+delphox,15,390,17.33,Underweight
+froakie,3,70,77.78,Very Severely Obese
+frogadier,6,109,30.28,Moderately Obese
+greninja,15,400,17.78,Underweight
+bunnelby,4,50,31.25,Moderately Obese
+diggersby,10,424,42.4,Very Severely Obese
+fletchling,3,17,18.89,Healthy Weight
+fletchinder,7,160,32.65,Moderately Obese
+talonflame,12,245,17.01,Underweight
+scatterbug,3,25,27.78,Overweight
+spewpa,3,84,93.33,Very Severely Obese
+vivillon,12,170,11.81,Very Severely Underweight
+litleo,6,135,37.5,Severely Obese
+pyroar,15,815,36.22,Severely Obese
+flabebe,1,1,10.0,Very Severely Underweight
+floette,2,9,22.5,Healthy Weight
+florges,11,100,8.26,Very Severely Underweight
+skiddo,9,310,38.27,Severely Obese
+gogoat,17,910,31.49,Moderately Obese
+pancham,6,80,22.22,Healthy Weight
+pangoro,21,1360,30.84,Moderately Obese
+furfrou,12,280,19.44,Healthy Weight
+espurr,3,35,38.89,Severely Obese
+meowstic-male,6,85,23.61,Healthy Weight
+honedge,8,20,3.12,Very Severely Underweight
+doublade,8,45,7.03,Very Severely Underweight
+aegislash-shield,17,530,18.34,Underweight
+spritzee,2,5,12.5,Very Severely Underweight
+aromatisse,8,155,24.22,Healthy Weight
+swirlix,4,35,21.87,Healthy Weight
+slurpuff,8,50,7.81,Very Severely Underweight
+inkay,4,35,21.87,Healthy Weight
+malamar,15,470,20.89,Healthy Weight
+binacle,5,310,124.0,Very Severely Obese
+barbaracle,13,960,56.8,Very Severely Obese
+skrelp,5,73,29.2,Overweight
+dragalge,18,815,25.15,Overweight
+clauncher,5,83,33.2,Moderately Obese
+clawitzer,13,353,20.89,Healthy Weight
+helioptile,5,60,24.0,Healthy Weight
+heliolisk,10,210,21.0,Healthy Weight
+tyrunt,8,260,40.62,Very Severely Obese
+tyrantrum,25,2700,43.2,Very Severely Obese
+amaura,13,252,14.91,Very Severely Underweight
+aurorus,27,2250,30.86,Moderately Obese
+sylveon,10,235,23.5,Healthy Weight
+hawlucha,8,215,33.59,Moderately Obese
+dedenne,2,22,55.0,Very Severely Obese
+carbink,3,57,63.33,Very Severely Obese
+goomy,3,28,31.11,Moderately Obese
+sliggoo,8,175,27.34,Overweight
+goodra,20,1505,37.62,Severely Obese
+klefki,2,30,75.0,Very Severely Obese
+phantump,4,70,43.75,Very Severely Obese
+trevenant,15,710,31.56,Moderately Obese
+pumpkaboo-average,4,50,31.25,Moderately Obese
+gourgeist-average,9,125,15.43,Severely Underweight
+bergmite,10,995,99.5,Very Severely Obese
+avalugg,20,5050,126.25,Very Severely Obese
+noibat,5,80,32.0,Moderately Obese
+noivern,15,850,37.78,Severely Obese
+xerneas,30,2150,23.89,Healthy Weight
+yveltal,58,2030,6.03,Very Severely Underweight
+zygarde-50,50,3050,12.2,Very Severely Underweight
+diancie,7,88,17.96,Underweight
+hoopa,5,90,36.0,Severely Obese
+volcanion,17,1950,67.47,Very Severely Obese
+rowlet,3,15,16.67,Underweight
+dartrix,7,160,32.65,Moderately Obese
+decidueye,16,366,14.3,Very Severely Underweight
+litten,4,43,26.87,Overweight
+torracat,7,250,51.02,Very Severely Obese
+incineroar,18,830,25.62,Overweight
+popplio,4,75,46.87,Very Severely Obese
+brionne,6,175,48.61,Very Severely Obese
+primarina,18,440,13.58,Very Severely Underweight
+pikipek,3,12,13.33,Very Severely Underweight
+trumbeak,6,148,41.11,Very Severely Obese
+toucannon,11,260,21.49,Healthy Weight
+yungoos,4,60,37.5,Severely Obese
+gumshoos,7,142,28.98,Overweight
+grubbin,4,44,27.5,Overweight
+charjabug,5,105,42.0,Very Severely Obese
+vikavolt,15,450,20.0,Healthy Weight
+crabrawler,6,70,19.44,Healthy Weight
+crabominable,17,1800,62.28,Very Severely Obese
+oricorio-baile,6,34,9.44,Very Severely Underweight
+cutiefly,1,2,20.0,Healthy Weight
+ribombee,2,5,12.5,Very Severely Underweight
+rockruff,5,92,36.8,Severely Obese
+lycanroc-midday,8,250,39.06,Severely Obese
+wishiwashi-solo,2,3,7.5,Very Severely Underweight
+mareanie,4,80,50.0,Very Severely Obese
+toxapex,7,145,29.59,Overweight
+mudbray,10,1100,110.0,Very Severely Obese
+mudsdale,25,9200,147.2,Very Severely Obese
+dewpider,3,40,44.44,Very Severely Obese
+araquanid,18,820,25.31,Overweight
+fomantis,3,15,16.67,Underweight
+lurantis,9,185,22.84,Healthy Weight
+morelull,2,15,37.5,Severely Obese
+shiinotic,10,115,11.5,Very Severely Underweight
+salandit,6,48,13.33,Very Severely Underweight
+salazzle,12,222,15.42,Severely Underweight
+stufful,5,68,27.2,Overweight
+bewear,21,1350,30.61,Moderately Obese
+bounsweet,3,32,35.56,Severely Obese
+steenee,7,82,16.73,Underweight
+tsareena,12,214,14.86,Very Severely Underweight
+comfey,1,3,30.0,Moderately Obese
+oranguru,15,760,33.78,Moderately Obese
+passimian,20,828,20.7,Healthy Weight
+wimpod,5,120,48.0,Very Severely Obese
+golisopod,20,1080,27.0,Overweight
+sandygast,5,700,280.0,Very Severely Obese
+palossand,13,2500,147.93,Very Severely Obese
+pyukumuku,3,12,13.33,Very Severely Underweight
+type-null,19,1205,33.38,Moderately Obese
+silvally,23,1005,19.0,Healthy Weight
+minior-red-meteor,3,400,444.44,Very Severely Obese
+komala,4,199,124.37,Very Severely Obese
+turtonator,20,2120,53.0,Very Severely Obese
+togedemaru,3,33,36.67,Severely Obese
+mimikyu-disguised,2,7,17.5,Underweight
+bruxish,9,190,23.46,Healthy Weight
+drampa,30,1850,20.56,Healthy Weight
+dhelmise,39,2100,13.81,Very Severely Underweight
+jangmo-o,6,297,82.5,Very Severely Obese
+hakamo-o,12,470,32.64,Moderately Obese
+kommo-o,16,782,30.55,Moderately Obese
+tapu-koko,18,205,6.33,Very Severely Underweight
+tapu-lele,12,186,12.92,Very Severely Underweight
+tapu-bulu,19,455,12.6,Very Severely Underweight
+tapu-fini,13,212,12.54,Very Severely Underweight
+cosmog,2,1,2.5,Very Severely Underweight
+cosmoem,1,9999,99990.0,Very Severely Obese
+solgaleo,34,2300,19.9,Healthy Weight
+lunala,40,1200,7.5,Very Severely Underweight
+nihilego,12,555,38.54,Severely Obese
+buzzwole,24,3336,57.92,Very Severely Obese
+pheromosa,18,250,7.72,Very Severely Underweight
+xurkitree,38,1000,6.93,Very Severely Underweight
+celesteela,92,9999,11.81,Very Severely Underweight
+kartana,3,1,1.11,Very Severely Underweight
+guzzlord,55,8880,29.36,Overweight
+necrozma,24,2300,39.93,Severely Obese
+magearna,10,805,80.5,Very Severely Obese
+marshadow,7,222,45.31,Very Severely Obese
+poipole,6,18,5.0,Very Severely Underweight
+naganadel,36,1500,11.57,Very Severely Underweight
+stakataka,55,8200,27.11,Overweight
+blacephalon,18,130,4.01,Very Severely Underweight
+zeraora,15,445,19.78,Healthy Weight
+meltan,2,80,200.0,Very Severely Obese
+melmetal,25,8000,128.0,Very Severely Obese
+grookey,3,50,55.56,Very Severely Obese
+thwackey,7,140,28.57,Overweight
+rillaboom,21,900,20.41,Healthy Weight
+scorbunny,3,45,50.0,Very Severely Obese
+raboot,6,90,25.0,Overweight
+cinderace,14,330,16.84,Underweight
+sobble,3,40,44.44,Very Severely Obese
+drizzile,7,115,23.47,Healthy Weight
+inteleon,19,452,12.52,Very Severely Underweight
+skwovet,3,25,27.78,Overweight
+greedent,6,60,16.67,Underweight
+rookidee,2,18,45.0,Very Severely Obese
+corvisquire,8,160,25.0,Overweight
+corviknight,22,750,15.5,Severely Underweight
+blipbug,4,80,50.0,Very Severely Obese
+dottler,4,195,121.87,Very Severely Obese
+orbeetle,4,408,255.0,Very Severely Obese
+nickit,6,89,24.72,Healthy Weight
+thievul,12,199,13.82,Very Severely Underweight
+gossifleur,4,22,13.75,Very Severely Underweight
+eldegoss,5,25,10.0,Very Severely Underweight
+wooloo,6,60,16.67,Underweight
+dubwool,13,430,25.44,Overweight
+chewtle,3,85,94.44,Very Severely Obese
+drednaw,10,1155,115.5,Very Severely Obese
+yamper,3,135,150.0,Very Severely Obese
+boltund,10,340,34.0,Moderately Obese
+rolycoly,3,120,133.33,Very Severely Obese
+carkol,11,780,64.46,Very Severely Obese
+coalossal,28,3105,39.6,Severely Obese
+applin,2,5,12.5,Very Severely Underweight
+flapple,3,10,11.11,Very Severely Underweight
+appletun,4,130,81.25,Very Severely Obese
+silicobra,22,76,1.57,Very Severely Underweight
+sandaconda,38,655,4.54,Very Severely Underweight
+cramorant,8,180,28.12,Overweight
+arrokuda,5,10,4.0,Very Severely Underweight
+barraskewda,13,300,17.75,Underweight
+toxel,4,110,68.75,Very Severely Obese
+toxtricity-amped,16,400,15.62,Severely Underweight
+sizzlipede,7,10,2.04,Very Severely Underweight
+centiskorch,30,1200,13.33,Very Severely Underweight
+clobbopus,6,40,11.11,Very Severely Underweight
+grapploct,16,390,15.23,Severely Underweight
+sinistea,1,2,20.0,Healthy Weight
+polteageist,2,4,10.0,Very Severely Underweight
+hatenna,4,34,21.25,Healthy Weight
+hattrem,6,48,13.33,Very Severely Underweight
+hatterene,21,51,1.16,Very Severely Underweight
+impidimp,4,55,34.37,Moderately Obese
+morgrem,8,125,19.53,Healthy Weight
+grimmsnarl,15,610,27.11,Overweight
+obstagoon,16,460,17.97,Underweight
+perrserker,8,280,43.75,Very Severely Obese
+cursola,10,4,0.4,Very Severely Underweight
+sirfetchd,8,1170,182.81,Very Severely Obese
+mr-rime,15,582,25.87,Overweight
+runerigus,16,666,26.02,Overweight
+milcery,2,3,7.5,Very Severely Underweight
+alcremie,3,5,5.56,Very Severely Underweight
+falinks,30,620,6.89,Very Severely Underweight
+pincurchin,3,10,11.11,Very Severely Underweight
+snom,3,38,42.22,Very Severely Obese
+frosmoth,13,420,24.85,Healthy Weight
+stonjourner,25,5200,83.2,Very Severely Obese
+eiscue-ice,14,890,45.41,Very Severely Obese
+indeedee-male,9,280,34.57,Moderately Obese
+morpeko-full-belly,3,30,33.33,Moderately Obese
+cufant,12,1000,69.44,Very Severely Obese
+copperajah,30,6500,72.22,Very Severely Obese
+dracozolt,18,1900,58.64,Very Severely Obese
+arctozolt,23,1500,28.36,Overweight
+dracovish,23,2150,40.64,Very Severely Obese
+arctovish,20,1750,43.75,Very Severely Obese
+duraludon,18,400,12.35,Very Severely Underweight
+dreepy,5,20,8.0,Very Severely Underweight
+drakloak,14,110,5.61,Very Severely Underweight
+dragapult,30,500,5.56,Very Severely Underweight
+zacian,28,1100,14.03,Very Severely Underweight
+zamazenta,29,2100,24.97,Healthy Weight
+eternatus,200,9500,2.38,Very Severely Underweight
+kubfu,6,120,33.33,Moderately Obese
+urshifu-single-strike,19,1050,29.09,Overweight
+zarude,18,700,21.6,Healthy Weight
+regieleki,12,1450,100.69,Very Severely Obese
+regidrago,21,2000,45.35,Very Severely Obese
+glastrier,22,8000,165.29,Very Severely Obese
+spectrier,20,445,11.12,Very Severely Underweight
+calyrex,11,77,6.36,Very Severely Underweight
+deoxys-attack,17,608,21.04,Healthy Weight
+deoxys-defense,17,608,21.04,Healthy Weight
+deoxys-speed,17,608,21.04,Healthy Weight
+wormadam-sandy,5,65,26.0,Overweight
+wormadam-trash,5,65,26.0,Overweight
+shaymin-sky,4,52,32.5,Moderately Obese
+giratina-origin,69,6500,13.65,Very Severely Underweight
+rotom-heat,3,3,3.33,Very Severely Underweight
+rotom-wash,3,3,3.33,Very Severely Underweight
+rotom-frost,3,3,3.33,Very Severely Underweight
+rotom-fan,3,3,3.33,Very Severely Underweight
+rotom-mow,3,3,3.33,Very Severely Underweight
+castform-sunny,3,8,8.89,Very Severely Underweight
+castform-rainy,3,8,8.89,Very Severely Underweight
+castform-snowy,3,8,8.89,Very Severely Underweight
+basculin-blue-striped,10,180,18.0,Underweight
+darmanitan-zen,13,929,54.97,Very Severely Obese
+meloetta-pirouette,6,65,18.06,Underweight
+tornadus-therian,14,630,32.14,Moderately Obese
+thundurus-therian,30,610,6.78,Very Severely Underweight
+landorus-therian,13,680,40.24,Very Severely Obese
+kyurem-black,33,3250,29.84,Overweight
+kyurem-white,36,3250,25.08,Overweight
+keldeo-resolute,14,485,24.74,Healthy Weight
+meowstic-female,6,85,23.61,Healthy Weight
+aegislash-blade,17,530,18.34,Underweight
+pumpkaboo-small,3,35,38.89,Severely Obese
+pumpkaboo-large,5,75,30.0,Moderately Obese
+pumpkaboo-super,8,150,23.44,Healthy Weight
+gourgeist-small,7,95,19.39,Healthy Weight
+gourgeist-large,11,140,11.57,Very Severely Underweight
+gourgeist-super,17,390,13.49,Very Severely Underweight
+venusaur-mega,24,1555,27.0,Overweight
+charizard-mega-x,17,1105,38.24,Severely Obese
+charizard-mega-y,17,1005,34.78,Moderately Obese
+blastoise-mega,16,1011,39.49,Severely Obese
+alakazam-mega,12,480,33.33,Moderately Obese
+gengar-mega,14,405,20.66,Healthy Weight
+kangaskhan-mega,22,1000,20.66,Healthy Weight
+pinsir-mega,17,590,20.42,Healthy Weight
+gyarados-mega,65,3050,7.22,Very Severely Underweight
+aerodactyl-mega,21,790,17.91,Underweight
+mewtwo-mega-x,23,1270,24.01,Healthy Weight
+mewtwo-mega-y,15,330,14.67,Very Severely Underweight
+ampharos-mega,14,615,31.38,Moderately Obese
+scizor-mega,20,1250,31.25,Moderately Obese
+heracross-mega,17,625,21.63,Healthy Weight
+houndoom-mega,19,495,13.71,Very Severely Underweight
+tyranitar-mega,25,2550,40.8,Very Severely Obese
+blaziken-mega,19,520,14.4,Very Severely Underweight
+gardevoir-mega,16,484,18.91,Healthy Weight
+mawile-mega,10,235,23.5,Healthy Weight
+aggron-mega,22,3950,81.61,Very Severely Obese
+medicham-mega,13,315,18.64,Healthy Weight
+manectric-mega,18,440,13.58,Very Severely Underweight
+banette-mega,12,130,9.03,Very Severely Underweight
+absol-mega,12,490,34.03,Moderately Obese
+garchomp-mega,19,950,26.32,Overweight
+lucario-mega,13,575,34.02,Moderately Obese
+abomasnow-mega,27,1850,25.38,Overweight
+floette-eternal,2,9,22.5,Healthy Weight
+latias-mega,18,520,16.05,Underweight
+latios-mega,23,700,13.23,Very Severely Underweight
+swampert-mega,19,1020,28.25,Overweight
+sceptile-mega,19,552,15.29,Severely Underweight
+sableye-mega,5,1610,644.0,Very Severely Obese
+altaria-mega,15,206,9.16,Very Severely Underweight
+gallade-mega,16,564,22.03,Healthy Weight
+audino-mega,15,320,14.22,Very Severely Underweight
+sharpedo-mega,25,1303,20.85,Healthy Weight
+slowbro-mega,20,1200,30.0,Moderately Obese
+steelix-mega,105,7400,6.71,Very Severely Underweight
+pidgeot-mega,22,505,10.43,Very Severely Underweight
+glalie-mega,21,3502,79.41,Very Severely Obese
+diancie-mega,11,278,22.98,Healthy Weight
+metagross-mega,25,9429,150.86,Very Severely Obese
+kyogre-primal,98,4300,4.48,Very Severely Underweight
+groudon-primal,50,9997,39.99,Severely Obese
+rayquaza-mega,108,3920,3.36,Very Severely Underweight
+pikachu-rock-star,4,60,37.5,Severely Obese
+pikachu-belle,4,60,37.5,Severely Obese
+pikachu-pop-star,4,60,37.5,Severely Obese
+pikachu-phd,4,60,37.5,Severely Obese
+pikachu-libre,4,60,37.5,Severely Obese
+pikachu-cosplay,4,60,37.5,Severely Obese
+hoopa-unbound,65,4900,11.6,Very Severely Underweight
+camerupt-mega,25,3205,51.28,Very Severely Obese
+lopunny-mega,13,283,16.75,Underweight
+salamence-mega,18,1126,34.75,Moderately Obese
+beedrill-mega,14,405,20.66,Healthy Weight
+rattata-alola,3,38,42.22,Very Severely Obese
+raticate-alola,7,255,52.04,Very Severely Obese
+raticate-totem-alola,14,1050,53.57,Very Severely Obese
+pikachu-original-cap,4,60,37.5,Severely Obese
+pikachu-hoenn-cap,4,60,37.5,Severely Obese
+pikachu-sinnoh-cap,4,60,37.5,Severely Obese
+pikachu-unova-cap,4,60,37.5,Severely Obese
+pikachu-kalos-cap,4,60,37.5,Severely Obese
+pikachu-alola-cap,4,60,37.5,Severely Obese
+raichu-alola,7,210,42.86,Very Severely Obese
+sandshrew-alola,7,400,81.63,Very Severely Obese
+sandslash-alola,12,550,38.19,Severely Obese
+vulpix-alola,6,99,27.5,Overweight
+ninetales-alola,11,199,16.45,Underweight
+diglett-alola,2,10,25.0,Overweight
+dugtrio-alola,7,666,135.92,Very Severely Obese
+meowth-alola,4,42,26.25,Overweight
+persian-alola,11,330,27.27,Overweight
+geodude-alola,4,203,126.87,Very Severely Obese
+graveler-alola,10,1100,110.0,Very Severely Obese
+golem-alola,17,3160,109.34,Very Severely Obese
+grimer-alola,7,420,85.71,Very Severely Obese
+muk-alola,10,520,52.0,Very Severely Obese
+exeggutor-alola,109,4156,3.5,Very Severely Underweight
+marowak-alola,10,340,34.0,Moderately Obese
+greninja-battle-bond,15,400,17.78,Underweight
+greninja-ash,15,400,17.78,Underweight
+zygarde-10-power-construct,12,335,23.26,Healthy Weight
+zygarde-50-power-construct,50,3050,12.2,Very Severely Underweight
+zygarde-complete,45,6100,30.12,Moderately Obese
+gumshoos-totem,14,600,30.61,Moderately Obese
+vikavolt-totem,26,1475,21.82,Healthy Weight
+oricorio-pom-pom,6,34,9.44,Very Severely Underweight
+oricorio-pau,6,34,9.44,Very Severely Underweight
+oricorio-sensu,6,34,9.44,Very Severely Underweight
+lycanroc-midnight,11,250,20.66,Healthy Weight
+wishiwashi-school,82,786,1.17,Very Severely Underweight
+lurantis-totem,15,580,25.78,Overweight
+salazzle-totem,21,810,18.37,Underweight
+minior-orange-meteor,3,400,444.44,Very Severely Obese
+minior-yellow-meteor,3,400,444.44,Very Severely Obese
+minior-green-meteor,3,400,444.44,Very Severely Obese
+minior-blue-meteor,3,400,444.44,Very Severely Obese
+minior-indigo-meteor,3,400,444.44,Very Severely Obese
+minior-violet-meteor,3,400,444.44,Very Severely Obese
+minior-red,3,3,3.33,Very Severely Underweight
+minior-orange,3,3,3.33,Very Severely Underweight
+minior-yellow,3,3,3.33,Very Severely Underweight
+minior-green,3,3,3.33,Very Severely Underweight
+minior-blue,3,3,3.33,Very Severely Underweight
+minior-indigo,3,3,3.33,Very Severely Underweight
+minior-violet,3,3,3.33,Very Severely Underweight
+mimikyu-busted,2,7,17.5,Underweight
+mimikyu-totem-disguised,4,28,17.5,Underweight
+mimikyu-totem-busted,4,28,17.5,Underweight
+kommo-o-totem,24,2075,36.02,Severely Obese
+magearna-original,10,805,80.5,Very Severely Obese
+pikachu-partner-cap,4,60,37.5,Severely Obese
+marowak-totem,17,980,33.91,Moderately Obese
+ribombee-totem,4,20,12.5,Very Severely Underweight
+rockruff-own-tempo,5,92,36.8,Severely Obese
+lycanroc-dusk,8,250,39.06,Severely Obese
+araquanid-totem,31,2175,22.63,Healthy Weight
+togedemaru-totem,6,130,36.11,Severely Obese
+necrozma-dusk,38,4600,31.86,Moderately Obese
+necrozma-dawn,42,3500,19.84,Healthy Weight
+necrozma-ultra,75,2300,4.09,Very Severely Underweight
+pikachu-starter,4,60,37.5,Severely Obese
+eevee-starter,3,65,72.22,Very Severely Obese
+pikachu-world-cap,4,60,37.5,Severely Obese
+meowth-galar,4,75,46.87,Very Severely Obese
+ponyta-galar,8,240,37.5,Severely Obese
+rapidash-galar,17,800,27.68,Overweight
+slowpoke-galar,12,360,25.0,Overweight
+slowbro-galar,16,705,27.54,Overweight
+farfetchd-galar,8,420,65.62,Very Severely Obese
+weezing-galar,30,160,1.78,Very Severely Underweight
+mr-mime-galar,14,568,28.98,Overweight
+articuno-galar,17,509,17.61,Underweight
+zapdos-galar,16,582,22.73,Healthy Weight
+moltres-galar,20,660,16.5,Underweight
+slowking-galar,18,795,24.54,Healthy Weight
+corsola-galar,6,5,1.39,Very Severely Underweight
+zigzagoon-galar,4,175,109.37,Very Severely Obese
+linoone-galar,5,325,130.0,Very Severely Obese
+darumaka-galar,7,400,81.63,Very Severely Obese
+darmanitan-galar-standard,17,1200,41.52,Very Severely Obese
+darmanitan-galar-zen,17,1200,41.52,Very Severely Obese
+yamask-galar,5,15,6.0,Very Severely Underweight
+stunfisk-galar,7,205,41.84,Very Severely Obese
+zygarde-10,12,335,23.26,Healthy Weight
+cramorant-gulping,8,180,28.12,Overweight
+cramorant-gorging,8,180,28.12,Overweight
+toxtricity-low-key,16,400,15.62,Severely Underweight
+eiscue-noice,14,890,45.41,Very Severely Obese
+indeedee-female,9,280,34.57,Moderately Obese
+morpeko-hangry,3,30,33.33,Moderately Obese
+zacian-crowned,28,3550,45.28,Very Severely Obese
+zamazenta-crowned,29,7850,93.34,Very Severely Obese
+eternatus-eternamax,1000,0,-1,Unknown
+urshifu-rapid-strike,19,1050,29.09,Overweight
+zarude-dada,18,700,21.6,Healthy Weight
+calyrex-ice,24,8091,140.47,Very Severely Obese
+calyrex-shadow,24,536,9.31,Very Severely Underweight
